@@ -14,7 +14,6 @@ def solve(c1, c2, B):
     P.add_row([1, c1, x1, p])
     P.add_row([2, c2, x2, p])
     return P
-    
 
 
 parser = ArgumentParser(description='Mathematical deception of bookmakers')
