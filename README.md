@@ -4,7 +4,7 @@
 ### About
 * Betmak is a tool for betting forks catching
 * Use it with two coefficients for opposite outcomes
-* You can get fixed priel if the program will show the table with bets
+* You can get fixed profit if the program will show the table with bets
 * Else try other coefficients))
 
 ### Install
