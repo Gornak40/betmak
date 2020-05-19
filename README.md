@@ -17,4 +17,5 @@
 ### Examples
 * ```./betmak.py 1.4 6.87 -B 400```
 * ```./betmak.py 1.5 7```
+
 ![Example](https://github.com/Gornak40/betmak/blob/master/examples/example.png)
